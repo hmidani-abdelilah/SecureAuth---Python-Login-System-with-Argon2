@@ -1,5 +1,9 @@
 # SecureAuth - Python Login System with Argon2
 
+![](https://raw.githubusercontent.com/hmidani-abdelilah/SecureAuth---Python-Login-System-with-Argon2/refs/heads/main/Screenshot%20From%202026-10-06%2013-53-10.png)
+
+![](https://raw.githubusercontent.com/hmidani-abdelilah/SecureAuth---Python-Login-System-with-Argon2/refs/heads/main/Screenshot%20From%202026-10-06%2013-53-16.png)
+
 SecureAuth is a modern desktop login system built with Python and CustomTkinter, implementing secure password hashing using Argon2.
 
 ## 🔐 Features
